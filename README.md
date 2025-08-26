@@ -30,8 +30,8 @@
 ---
 
 ## 📫 Como me encontrar  
-- LinkedIn: [seu link aqui]  
-- E-mail: [seu e-mail aqui]  
+- LinkedIn: https://www.linkedin.com/in/fernando-tobace/ 
+- E-mail: fertobacedev@gmail.com 
 
 ---
 
