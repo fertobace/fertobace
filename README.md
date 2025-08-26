@@ -15,9 +15,9 @@
 ---
 
 ## 📂 Projetos em Destaque  
-https://github.com/fertobace/Projeto-Python-Banco
-https://github.com/fertobace/Projeto-SQL-AirBnB
-https://github.com/fertobace/Projeto-PowerBi
+- https://github.com/fertobace/Projeto-Python-Banco
+- https://github.com/fertobace/Projeto-SQL-AirBnB
+- https://github.com/fertobace/Projeto-PowerBi
 *(mais projetos em breve, acompanhe meu repositório 👀)*  
 
 ---
