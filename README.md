@@ -23,7 +23,10 @@
 ---
 
 ## 🌱 O que estou aprendendo  
-- Power BI (modelagem de dados e DAX)  
+- Power BI (modelagem de dados e DAX)
+- SQL avançado
+- Python para análise de dados
+- Excel 
 - Projetos de Data Science aplicados a problemas do mundo real  
 - Boas práticas para portfólio de dados  
 
