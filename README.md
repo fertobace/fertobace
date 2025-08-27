@@ -22,9 +22,10 @@
 
 ---
 
-## 🌱 O que estou aprendendo  
-- Power BI (modelagem de dados e DAX)
-- SQL avançado
+## 🌱 Quais conhecimentos eu domino? 
+- Power BI
+- SQL
+- Python
 - Python para análise de dados
 - Excel 
 - Projetos de Data Science aplicados a problemas do mundo real  
