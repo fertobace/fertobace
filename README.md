@@ -1,42 +1,44 @@
-# 👋 Olá, eu sou o Fernando Tobace  
+# 👋 Hello, I'm Fernando Tobace  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Análise de Dados**.  
-💡 Tenho experiência acadêmica em **Matemática** e atualmente estou direcionando minha carreira para a área de **Data Science e Data Analytics**.  
-📊 Apaixonado por transformar dados em insights e por desenvolver soluções que ajudem na tomada de decisão.  
-
----
-
-## 🚀 Habilidades  
-- **Linguagens & Bibliotecas**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- **Banco de Dados**: SQL (SQLite, MySQL)  
-- **Ferramentas de Análise**: Excel (funções, tabelas dinâmicas, gráficos dinâmicos) e Power BI  
-- **Conceitos de Data Science**: regressão linear, regressão logística e análise exploratória de dados  
+🎓 Student of **Systems Analysis and Development** focused on **DevOps and Cloud Computing**.  
+💡 Passionate about **automation, cloud infrastructure**, and **CI/CD practices** that make development faster, scalable, and reliable.  
+🚀 I love building efficient and secure environments using the best DevOps tools in the market.  
 
 ---
 
-## 📂 Projetos em Destaque  
-- https://github.com/fertobace/Projeto-Python-Banco
-- https://github.com/fertobace/Projeto-SQL-AirBnB
-- https://github.com/fertobace/Projeto-PowerBi
-- *(mais projetos em breve, acompanhe meu repositório 👀)*  
+## ⚙️ Skills  
+- **Cloud**: AWS, GCP, Azure  
+- **Containerization**: Docker, Kubernetes  
+- **Infrastructure as Code (IaC)**: Terraform, Ansible  
+- **Automation & CI/CD**: Git, GitHub Actions, GitOps, CI/CD pipelines  
+- **Operating Systems**: Linux  
+- **Monitoring**: Prometheus, Grafana  
+- **Languages**: Python, JavaScript, SQL  
 
 ---
 
-## 🌱 Quais conhecimentos eu domino? 
-- Power BI
-- SQL
-- Python
-- Python para análise de dados
-- Excel 
-- Projetos de Data Science aplicados a problemas do mundo real  
-- Boas práticas para portfólio de dados  
+## 🧩 Highlight Projects  
+- Automated **n8n deployment** using Docker and AWS ECS  
+- **CI/CD pipeline** configuration with GitHub Actions and auto-deploy on EC2  
+- Monitoring setup with **Prometheus and Grafana**  
+- **Terraform IaC** project for AWS infrastructure provisioning  
+
+> *(More projects coming soon — stay tuned 👀)*  
 
 ---
 
-## 📫 Como me encontrar  
-- LinkedIn: https://www.linkedin.com/in/fernando-tobace/ 
-- E-mail: fertobacedev@gmail.com 
+## 🌱 Currently Learning  
+- Advanced Kubernetes (Helm, Ingress, Secrets)  
+- Centralized logging with ELK Stack  
+- Cloud cost optimization (FinOps)  
+- Security in pipelines and cloud environments  
 
 ---
 
-✨ Sempre buscando aprender, praticar e compartilhar conhecimento.  
+## 📫 How to reach me  
+- **LinkedIn:** [linkedin.com/in/fernando-tobace](https://www.linkedin.com/in/fernando-tobace/)  
+- **E-mail:** fertobacedev@gmail.com  
+
+---
+
+✨ Always learning, evolving, and building better DevOps infrastructures!  
