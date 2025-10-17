@@ -1,44 +1,45 @@
-# 👋 Hello, I'm Fernando Tobace  
+# 👋 Olá, eu sou o Fernando Tobace  
 
-🎓 Student of **Systems Analysis and Development** focused on **DevOps and Cloud Computing**.  
-💡 Passionate about **automation, cloud infrastructure**, and **CI/CD practices** that make development faster, scalable, and reliable.  
-🚀 I love building efficient and secure environments using the best DevOps tools in the market.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em **DevOps e Computação em Nuvem**.  
+💡 Apaixonado por **automação, infraestrutura em nuvem** e **práticas de CI/CD** que tornam o desenvolvimento mais ágil e escalável.  
+🚀 Busco constantemente aprender novas tecnologias e construir ambientes eficientes, seguros e otimizados.  
 
 ---
 
-## ⚙️ Skills  
+## ⚙️ Habilidades  
 - **Cloud**: AWS, GCP, Azure  
-- **Containerization**: Docker, Kubernetes  
-- **Infrastructure as Code (IaC)**: Terraform, Ansible  
-- **Automation & CI/CD**: Git, GitHub Actions, GitOps, CI/CD pipelines  
-- **Operating Systems**: Linux  
-- **Monitoring**: Prometheus, Grafana  
-- **Languages**: Python, JavaScript, SQL  
+- **Containerização**: Docker, Kubernetes  
+- **Infraestrutura como Código (IaC)**: Terraform, Ansible  
+- **Automação e CI/CD**: Git, GitHub Actions, GitOps, pipelines de integração contínua  
+- **Sistemas Operacionais**: Linux  
+- **Monitoramento**: Prometheus, Grafana  
+- **Linguagens**: Python, JavaScript, SQL  
 
 ---
 
-## 🧩 Highlight Projects  
-- Automated **n8n deployment** using Docker and AWS ECS  
-- **CI/CD pipeline** configuration with GitHub Actions and auto-deploy on EC2  
-- Monitoring setup with **Prometheus and Grafana**  
-- **Terraform IaC** project for AWS infrastructure provisioning  
+## 🧩 Projetos em Destaque  
+- Automação completa do **n8n** com Docker e ECS (AWS)  
+- Configuração de **pipeline CI/CD** com GitHub Actions e deploy automatizado em EC2  
+- Monitoramento com **Prometheus e Grafana**  
+- Provisionamento de infraestrutura AWS com **Terraform**  
 
-> *(More projects coming soon — stay tuned 👀)*  
-
----
-
-## 🌱 Currently Learning  
-- Advanced Kubernetes (Helm, Ingress, Secrets)  
-- Centralized logging with ELK Stack  
-- Cloud cost optimization (FinOps)  
-- Security in pipelines and cloud environments  
+> *(Mais projetos em breve — acompanhe meu repositório 👀)*  
 
 ---
 
-## 📫 How to reach me  
+## 🌱 Atualmente estudando  
+- Kubernetes avançado (Helm, Ingress, Secrets)  
+- Logs centralizados com ELK Stack  
+- Otimização de custos em nuvem (FinOps)  
+- Segurança em pipelines e ambientes cloud  
+
+---
+
+## 📫 Como me encontrar  
 - **LinkedIn:** [linkedin.com/in/fernando-tobace](https://www.linkedin.com/in/fernando-tobace/)  
 - **E-mail:** fertobacedev@gmail.com  
 
 ---
 
-✨ Always learning, evolving, and building better DevOps infrastructures!  
+✨ Sempre aprendendo, evoluindo e construindo infraestruturas mais ágeis e confiáveis!  
+
