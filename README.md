@@ -19,8 +19,7 @@
 
 ## 🧩 Projetos em Destaque  
 - Automação completa do **n8n** com Docker e ECS (AWS)  
-- Configuração de **pipeline CI/CD** com GitHub Actions e deploy automatizado em EC2  
-- Monitoramento com **Prometheus e Grafana**  
+- Configuração de **pipeline CI/CD** com GitHub Actions  
 - Provisionamento de infraestrutura AWS com **Terraform**  
 
 > *(Mais projetos em breve — acompanhe meu repositório 👀)*  
